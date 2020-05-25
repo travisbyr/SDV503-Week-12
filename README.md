@@ -35,12 +35,14 @@ An example of this can be shown in code and pseudocode below.
 
 ## References
 
+Medium. (2019, September). *Algorithms in JavaScript: Hash Tables.*
 https://medium.com/javascript-in-plain-english/algorithm-in-javascript-hash-table-7b0464d2b81b
-https://pietschsoft.com/post/2015/09/05/javascript-basics-how-to-create-a-dictionary-with-keyvalue-pairs
-https://www.freecodecamp.org/news/how-to-implement-a-simple-hash-table-in-javascript-cb3b9c1f2997/
-https://www.poftut.com/how-create-and-use-dictionary-in-javascript-tutorial-with-examples/
 
-Open4Tech. (n.d.). _Array vs. Linked List vs. Hash Table._
-https://open4tech.com/array-vs-linked-list-vs-hash-table/
-dwadwadwadwadwadwa
-dwadw
+Chris Pietschmann. (2015, September). *JavaScript Basics: How to create a Dictionary with Key/Value pairs.*
+https://pietschsoft.com/post/2015/09/05/javascript-basics-how-to-create-a-dictionary-with-keyvalue-pairs
+
+freeCodeCamp. (2018, April). _How to implement a simple hash table in JavaScript._
+https://www.freecodecamp.org/news/how-to-implement-a-simple-hash-table-in-javascript-cb3b9c1f2997/
+
+POFTUT. (2020, February). _How Create and Use Dictionary In JavaScript Tutorial with Examples?._
+https://www.poftut.com/how-create-and-use-dictionary-in-javascript-tutorial-with-examples/
