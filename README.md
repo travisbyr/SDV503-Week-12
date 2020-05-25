@@ -33,12 +33,16 @@ An example of this can be shown in code and pseudocode below.
 ![Image of Code](https://github.com/travisbyr/SDV503-Week-12/blob/master/dictionaryCode.png)
 ![Image of Code](https://github.com/travisbyr/SDV503-Week-12/blob/master/dictionaryPseu.png)
 
+## Conclusion
+
+Dictionaries and hash tables are very useful and both have very different uses. They can be used effectively and efficently to send and retrieve data.
+
 ## References
 
-Medium. (2019, September). *Algorithms in JavaScript: Hash Tables.*
+Medium. (2019, September). _Algorithms in JavaScript: Hash Tables._
 https://medium.com/javascript-in-plain-english/algorithm-in-javascript-hash-table-7b0464d2b81b
 
-Chris Pietschmann. (2015, September). *JavaScript Basics: How to create a Dictionary with Key/Value pairs.*
+Chris Pietschmann. (2015, September). _JavaScript Basics: How to create a Dictionary with Key/Value pairs._
 https://pietschsoft.com/post/2015/09/05/javascript-basics-how-to-create-a-dictionary-with-keyvalue-pairs
 
 freeCodeCamp. (2018, April). _How to implement a simple hash table in JavaScript._
