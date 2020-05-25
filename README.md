@@ -9,6 +9,7 @@ Hash tables and dictionaries are two forms of data structure stores, that send a
 Hash tables are a data structure that pairs keys to values. This is a process that takes key values and converts them into key indexes, that can be used to reference locations of values. Every key index is unique and is assigned to every item in a data sheet. Hash tables are the fundamentals that associative arrays use to assign keys to values. A hash table is able to effectivly create key indexes by using a hash function. The advantange of using hash tables is this it has a computational complexity of 0(1) (constant time). This means that the more datat that is required to be processed through the hash function, takes the same amount of computational effortand time. This makes hash functions quite efficent, especially when a very large dataset is present, as the complexity will remain the same.
 
 ![Image of Code](https://github.com/travisbyr/SDV503-Week-12/blob/master/hashTableDia.png)
+(Nadalin, 2018).
 
 ### Hash Function
 
